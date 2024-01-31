@@ -31,6 +31,11 @@
   .section-container {
     display: block;
   }
+
+  #profile{
+    margin-bottom: 280px;
+  }
+
   .arrow {
     display: none;
   }
@@ -61,8 +66,8 @@
     height: 40vh;
   }
   #profile {
-    height: 83vh;
-    margin-bottom: 0;
+    /* height: 100vh; */
+    margin-bottom: 200px;
   }
   article {
     font-size: 1rem;
@@ -110,8 +115,6 @@
     text-align: justify;
   }
   .profile-pic{
-    /* height: 300px; */
-    width: 250px;
-    height: 190px;
+    width: 280px;
   }
 }
