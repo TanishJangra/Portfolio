@@ -184,6 +184,10 @@ section {
 .section__text {
   align-self: center;
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .section__text p {
@@ -197,6 +201,8 @@ section {
 .section__text__p2 {
   font-size: 1.75rem;
   margin-bottom: 1rem;
+  width: 400px;
+  overflow-wrap: break-word;
 }
 
 .title {

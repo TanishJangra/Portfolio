@@ -33,7 +33,7 @@
   }
 
   #profile{
-    margin-bottom: 280px;
+    /* margin-bottom: 280px; */
   }
 
   .arrow {
@@ -67,7 +67,7 @@
   }
   #profile {
     /* height: 100vh; */
-    margin-bottom: 200px;
+    /* margin-bottom: 200px; */
   }
   article {
     font-size: 1rem;
